@@ -16,6 +16,9 @@ const (
 	btc_chain   = "btc"
 	l_btc_chain = "lbtc"
 	usdt_chain="usdt"
+	statecoin_chain="statecoin"
+	fedimint_chain="e-cash"
+	ras_chain="ras"
 	
 )
 
