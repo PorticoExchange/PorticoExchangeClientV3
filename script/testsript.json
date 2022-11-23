@@ -5,7 +5,7 @@
     "asset": "btc, btc-lightning",
     "satoshi": 1,
     "pe image": "...",
-    "pre expired": "...",
+    "pre image expired": "...",
   }],
   "outputs": [{
     "asset": "...",
@@ -13,7 +13,7 @@
     "assetbl": "btc, btc-lightning",
     "satoshi": 1,
     "pe imagee": "...",
-    "pre expired": "...",
+    "pre image expired": "...",
   }]
  
 }
