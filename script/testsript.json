@@ -2,33 +2,18 @@
   "version": 1,
   "tx": "...",
   "inputs": [{
-    "asset": "...",
+    "asset": "btc, btc-lightning",
     "satoshi": 1,
-    "assetblinder": "...",
-    "value_blind_proof": "...",
+    "pe image": "...",
+    "pre expired": "...",
   }],
   "outputs": [{
     "asset": "...",
     "satoshi": 1,
-    "assetblinder": "...",
-    "value_blind_proof": "...",
-  }],
-  "scalars": ["..."],
-}
-
-{
-  "version": 0,
-  "tx": "...",
-  "inputs": [{
-    "asset": "...",
-    "amount": 1,
-    "assetblinder": "...",
-    "amountblinder": "...",
-  }],
-  "outputs": [{
-    "asset": "...",
-    "amount": 1,
-    "assetblinder": "...",
-    "amountblinder": "...",
-  }],
+    "assetbl": "btc, btc-lightning",
+    "satoshi": 1,
+    "pe imagee": "...",
+    "pre expired": "...",
+  }]
+ 
 }
