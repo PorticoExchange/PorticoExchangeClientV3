@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "tx": "...",
+  "inputs": [{
+    "asset": "...",
+    "satoshi": 1,
+    "assetblinder": "...",
+    "value_blind_proof": "...",
+  }],
+  "outputs": [{
+    "asset": "...",
+    "satoshi": 1,
+    "assetblinder": "...",
+    "value_blind_proof": "...",
+  }],
+  "scalars": ["..."],
+}
+
+{
+  "version": 0,
+  "tx": "...",
+  "inputs": [{
+    "asset": "...",
+    "amount": 1,
+    "assetblinder": "...",
+    "amountblinder": "...",
+  }],
+  "outputs": [{
+    "asset": "...",
+    "amount": 1,
+    "assetblinder": "...",
+    "amountblinder": "...",
+  }],
+}
