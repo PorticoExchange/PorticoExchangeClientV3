@@ -4,6 +4,7 @@ go 1.16
 
 require (
 	github.com/benbjohnson/clock v1.3.0 // indirect
+	github.com/bitcoin/bitcoin v24.0.0
 	github.com/btcsuite/btcd v0.23.3
 	github.com/btcsuite/btcd/btcec/v2 v2.2.1
 	github.com/btcsuite/btcd/btcutil v1.1.2
@@ -39,7 +40,6 @@ require (
 	github.com/stretchr/testify v1.8.0
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20220101234140-673ab2c3ae75 // indirect
 	github.com/urfave/cli v1.22.9
-	github.com/vulpemventures/go-elements v0.4.0
 	github.com/ybbus/jsonrpc v2.1.2+incompatible
 	go.etcd.io/bbolt v1.3.6
 	go.etcd.io/etcd/server/v3 v3.5.5 // indirect
