@@ -33,8 +33,8 @@ require (
 	github.com/lightningdevkit/rust-lightning v0.0.112
 	github.com/omnilaboratory/obd v0.2.0
 	github.com/RGB-WG/rgb-node v.8.1
-	https://github.com/commerceblock/mercury v20.10.17
-	https://github.com/ElementsProject/elements v22.0.2
+	github.com/commerceblock/mercury v20.10.17
+	github.com/ElementsProject/elements v22.0.2
 	github.com/lightningnetwork/lnd/tor v1.1.0 // indirect
 	github.com/ltcsuite/ltcd v0.22.1-beta // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2 // indirect
