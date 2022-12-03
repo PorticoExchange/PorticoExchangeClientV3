@@ -1,4 +1,4 @@
-module github.com/elementsproject/peerswap
+module github.com/PorticoExchange/PorticoExchangeClientV3
 
 go 1.16
 
