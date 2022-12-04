@@ -8,3 +8,18 @@ This is a light client to interface with [PorticoExchange](https://github.com/Po
 * Accept and Execute trustless swaps
 * Portico usa base this Light Client and [PorticoExchangeClientV3](https://github.com/PorticoExchange/PorticoExchangeClientV3)
 
+## To-Do
+- [ ] Testnet
+- [ ] Integration with Umbrel, Raspiblitz
+- [ ] Mainnet
+- [ ] Fees
+- [ ] UI via web browser
+- [ ] Atomic Swap without need run full node Liquid and otthers sidechains/layers
+- [ ] Test with DLCs
+- [ ] P2P Swaps
+
+# Product
+
+-The product is in development
+
+-Based on PeerSwap.
