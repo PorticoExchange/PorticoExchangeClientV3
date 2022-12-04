@@ -35,7 +35,8 @@ require (
 	github.com/RGB-WG/rgb-node v.8.1
 	github.com/commerceblock/mercury v20.10.17
 	github.com/ElementsProject/elements v22.0.2
-	/github.com/p2pderivatives/rust-dlc/ v0.3.0
+	github.com/SequentiaSEQ/elements
+	github.com/p2pderivatives/rust-dlc/ v0.3.0
 	github.com/lightningnetwork/lnd/tor v1.1.0 // indirect
 	github.com/ltcsuite/ltcd v0.22.1-beta // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.2 // indirect
