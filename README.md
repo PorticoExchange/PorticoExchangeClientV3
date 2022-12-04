@@ -22,4 +22,4 @@ This is a light client to interface with [PorticoExchange](https://github.com/Po
 
 -The product is in development
 
--Based on PeerSwap.
+-Based on Core Lightning
