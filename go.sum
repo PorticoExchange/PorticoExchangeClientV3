@@ -710,11 +710,11 @@ github.com/lightningnetwork/lnd/tor v1.0.1/go.mod h1:RDtaAdwfAm+ONuPYwUhNIH1RAvK
 github.com/lightningnetwork/lnd/tor v1.1.0 h1:iXO7fSzjxTI+p88KmtpbuyuRJeNfgtpl9QeaAliILXE=
 github.com/lightningnetwork/lnd/tor v1.1.0/go.mod h1:RDtaAdwfAm+ONuPYwUhNIH1RAvKPv+75lHPOegUcz64=
 github.com/ltcsuite/ltcd v0.0.0-20190101042124-f37f8bf35796/go.mod h1:3p7ZTf9V1sNPI5H8P3NkTFF4LuwMdPl2DodF60qAKqY=
-github.com/omnilaboratory/obd v0.2.0/go.mod h1:
-github.com/RGB-WG/rgb-node v.8.1/go.mod h1:
-github.com/commerceblock/mercury v20.10.17/go.mod h1:
-github.com/ElementsProject/elements v22.0.2/god.mod h1:
-/github.com/p2pderivatives/rust-dlc/go.mod h1:
+github.com/omnilaboratory/obd v0.2.0/go.mod h1: 5yIbnUmyc/U4dNkA9QSgWlWpTSAwcbiP1vYIrLT4e1s=
+github.com/RGB-WG/rgb-node v.8.1/go.mod h1:5yIbnUmyc/U4dNkA9QSgWlWpTSAwcbiP1vYIrLT4e1s=
+github.com/commerceblock/mercury v20.10.17/go.mod h1: 5yIbnUmyc/U4dNkA9QSgWlWpTSAwcbiP1vYIrLT4e1s=
+github.com/ElementsProject/elements v22.0.2/god.mod h1: 5yIbnUmyc/U4dNkA9QSgWlWpTSAwcbiP1vYIrLT4e1s=
+/github.com/p2pderivatives/rust-dlc/go.mod h1: 5yIbnUmyc/U4dNkA9QSgWlWpTSAwcbiP1vYIrLT4e1s=
 github.com/ltcsuite/ltcd v0.22.0-beta/go.mod h1:/BXtm50r591uMfXf8XgSpL5er32HCvheJtBSPYK5bFM=
 github.com/ltcsuite/ltcd v0.22.1-beta h1:aXeIMuzwPss4VABDyc7Zbx+NMLYFaG3YkNTPNkKL9XA=
 github.com/ltcsuite/ltcd v0.22.1-beta/go.mod h1:O9R9U/mbZwRgr3So8TlNmW7CPc2ZQVhWyVlhXrqu/vo=
