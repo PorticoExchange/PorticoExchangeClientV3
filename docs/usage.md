@@ -8,6 +8,7 @@ Portico is a Peer To Peer atomic swap plugin for lightning nodes and Lightning a
 - Statecoin (statechain)
 - USDT (RGB)
 - USDT (omnibolt)
+- E-cash (fedimint)
 
 ## Notes on commands
 
