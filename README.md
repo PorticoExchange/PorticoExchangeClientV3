@@ -14,7 +14,7 @@ This is a light client to interface with [PorticoExchange](https://github.com/Po
 - [ ] Mainnet
 - [ ] Fees
 - [ ] UI via web browser
-- [ ] Atomic Swap without need run full node Liquid and otthers sidechains/layers
+- [ ] Atomic Swap without need run full node Liquid and others sidechains/layers
 - [ ] Test with DLCs
 - [ ] P2P Swaps
 - [ ] Hosted Channels
