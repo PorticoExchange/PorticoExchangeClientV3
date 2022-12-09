@@ -50,7 +50,7 @@ The liquid wallet uses an elementsd integrated wallet named `peerswap`. It creat
 
 ## Swaps
 
-PeerSwap facilitates a trustless atomic swap between on-chain and lightning channel balance. Each atomic swap consists of two on-chain transactions and a lightning payment. The first onchain transaction commits to the swap then waits a minimum quantity of confirmations to guard against double-spending. Once confirmed the other party pays the lightning payment which reveals the preimage, thereby enabling the onchain commitment to be claimed and the atomic swap is complete.
+Portico facilitates a trustless atomic swap between on-chain and lightning channel balance. Each atomic swap consists of two on-chain transactions and a lightning payment. The first onchain transaction commits to the swap then waits a minimum quantity of confirmations to guard against double-spending. Once confirmed the other party pays the lightning payment which reveals the preimage, thereby enabling the onchain commitment to be claimed and the atomic swap is complete.
 
 There are two types of swaps.
 
