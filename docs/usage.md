@@ -36,7 +36,7 @@ core-lightning plugin:
 
 ## Liquid Usage
 
-PeerSwap automatically enables a Liquid L-BTC wallet (asset type `lbtc`) if it detects elementsd in default paths or is otherwise configured to connect to elementsd RPC.
+Porticco automatically enables a Liquid L-BTC wallet (asset type `lbtc`) if it detects elementsd in default paths or is otherwise configured to connect to elementsd RPC.
 
 The liquid wallet related commands are
 
