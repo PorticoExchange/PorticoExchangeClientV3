@@ -14,18 +14,18 @@ Portico is a Peer To Peer atomic swap plugin for lightning nodes and Lightning a
 
 every command can be run with core-lightning plugins interface or using pscli.
 
-For the cln plugin you need to prepend `lightning-cli peerswap-<command>`.
+For the cln plugin you need to prepend `lightning-cli porticoexchange-<command>`.
 
 For the standalone daemon you would run `pscli <command>`
 
 E.g. the `lbtc-getaddress` command would look like this
 
 ```bash
-lightning-cli peerswap-lbtc-getaddress ## cln plugin call
+lightning-cli porticoexchange-lbtc-getaddress ## cln plugin call
 pscli lbtc-getaddress                  ## lnd peerswap call
 ```
 
-In order to list all peerswap calls run
+In order to list all porticoexchange calls run
 LND:
 
 ```pscli help```
