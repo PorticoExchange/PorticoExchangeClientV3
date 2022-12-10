@@ -18,6 +18,7 @@ This is a light client to interface with [PorticoExchange](https://github.com/Po
 - [ ] Test with DLCs
 - [ ] P2P Swaps
 - [ ] Hosted Channels
+- [ ] Miniscript, script and descriptors 
 
 # Product
 
