@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/benbjohnson/clock v1.3.0 // indirect
-	github.com/bitcoin/bitcoin v24.0.0
+	github.com/bitcoin/bitcoin v24.0.1
 	github.com/btcsuite/btcd v0.23.3
 	github.com/btcsuite/btcd/btcec/v2 v2.2.1
 	github.com/btcsuite/btcd/btcutil v1.1.2
