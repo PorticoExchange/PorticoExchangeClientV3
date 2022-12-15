@@ -1,3 +1,4 @@
 package swap
 
-import as "github.com/btcontract/plugin-hosted-channels" 
+import (
+  "github.com/btcontract/plugin-hosted-channels" 
