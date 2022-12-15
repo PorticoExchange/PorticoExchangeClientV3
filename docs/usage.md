@@ -20,23 +20,9 @@ For the standalone daemon you would run `pscli <command>`
 
 E.g. the `lbtc-getaddress` command would look like this
 
-```bash
-lightning-cli porticoexchange-lbtc-getaddress ## cln plugin call
-pscli lbtc-getaddress                  ## lnd peerswap call
-```
-
-In order to list all porticoexchange calls run
-LND:
-
-```pscli help```
-
-core-lightning plugin:
-
-```lightning-cli help | grep -A 1 peerswap```
-
 ## Liquid Usage
 
-Porticco automatically enables a Liquid L-BTC wallet (asset type `lbtc`) if it detects elementsd in default paths or is otherwise configured to connect to elementsd RPC.
+Portico automatically enables a Liquid L-BTC wallet (asset type `lbtc`) if it detects elementsd in default paths or is otherwise configured to connect to elementsd RPC.
 
 The liquid wallet related commands are
 
