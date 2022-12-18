@@ -5,4 +5,5 @@ type Invoice struct {
 	PHash       string
 	Amount      uint64
 	Description string
+	PHold       string
 }
